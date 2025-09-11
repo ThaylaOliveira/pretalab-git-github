@@ -7,3 +7,5 @@ A primeira aula apresentou o conceito de Git e a sua importância na comunidade 
 Ativamos a chave e incluimos a chave publica no Github
 
 ## Terceira aula conectando o Git com o Github
+
+# Segunda Semana
